@@ -1,0 +1,195 @@
+.golf-list{
+    position: relative;
+    width: 60%;
+    box-sizing: border-box;
+    margin: 50px auto;
+    padding: 0 20px;
+    box-shadow: black 0 0 5px inset;
+    background-color: rgba(152, 251, 152, 0.5);
+    border-radius: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-start;
+  }
+  
+  .golf-list-item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    min-width: 50%;
+    height: 175px;
+  }
+  
+  .golf-item-box {
+    position: relative;
+    width: 95%;
+    margin: auto;
+    box-sizing: border-box;
+    box-shadow: black 0 0 5px;
+    background-color: rgb(228, 255, 228);
+    border-radius: 10px;
+  }
+  
+  .golf-item {
+    position: relative;
+    width: 100%;
+    margin: auto;
+  }
+
+  .edit-box{
+    position: relative;
+    width: 65%;
+    box-sizing: border-box;
+    display: flex;
+  }
+
+  .edit-select-slope {
+    /* position: absolute; */
+    width: 75px;
+    height: 30px;
+    font-size: 1.1rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+  }
+
+  .edit-input-stroke {
+    width: 50px;
+    height: 40px;
+  
+    margin: auto;
+    margin-left: 30%;
+    padding: 0 5px;
+  
+    border-radius: 10px;
+  
+    font-size: 2.5rem;
+    text-align: right;
+  }
+
+  .edit-show-box {
+    box-sizing: border-box;
+    width: 50%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  #slope-color {
+    padding: 1px 8px;
+    border-radius: 8px;
+  
+    box-shadow: black 0 0 5px;
+    border-style: solid;
+    border-width: 4px;
+  }
+
+  .slope-color {
+    top: 0;
+    bottom: 0;
+    width: 50%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: auto 20px;
+  }
+  
+  .stroke {
+    position: absolute;
+    right: 0;
+    margin-right: 5px;
+    text-align: left;
+    width: 50%;
+    font-size: 3rem;
+  }
+  
+  .edit-button {
+    z-index: 9999;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 10px;
+    padding: 3px 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: transparent;
+  
+    cursor: pointer;
+  }
+  
+  .edit-button:hover{
+    background-color: green;
+    color: white;
+  }
+  
+  .golf-item-head{
+    position: relative;
+    width: 100%;
+    padding: 25px 20px 0 20px;
+    -webkit-user-select: none;
+  }
+  
+  .course-title {
+    text-align: left;
+    font-size: 1.1rem;
+    padding-right: 15px;
+  }
+  
+  .location {
+    text-align: left;
+    font-size: 0.8rem;
+    margin-left: 10px;
+  }
+  
+  .golf-item-content {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    width: 100%;
+    height: 60px;
+  }
+  
+  .buttons {
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .save-button {
+    padding: 5px 10px;
+  
+    font-size: 1.0rem;
+    font-weight: bold;
+  
+    border-radius: 10px;
+  
+    cursor: pointer;
+  }
+  
+  .save-button:hover {
+    background-color: green;
+    color: white;
+  }
+  
+  .remove-button {
+    right: 0;
+    bottom: 0;
+    padding: 5px 10px;
+  
+    margin: 10px;
+  
+    font-size: 1.0rem;
+    font-weight: bold;
+  
+    border-radius: 10px;
+  
+    cursor: pointer;
+  }
+  
+  .remove-button:hover {
+    background-color: green;
+    color: white;
+  }

@@ -1,0 +1,33 @@
+.handicap-section {
+    position: relative;
+    display: flex;
+    align-items: center;
+  
+    width: 30%;
+  }
+  
+  .handicap-content {
+    align-items: center;
+    box-sizing: border-box;
+    height: 175px;
+    border-radius: 20px;
+    background-color: rgb(230, 253, 236);
+    box-shadow: black 0 0 10px;
+  }
+  
+  .middle-handicap-content {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+  }
+  
+  .handicap-content h2 {
+    font-weight: bold;
+    padding: 10px 20px;
+  }
+  
+  .handicap-content h1 {
+    font-size: 6.0rem;
+    letter-spacing: -10px;
+  }
+  

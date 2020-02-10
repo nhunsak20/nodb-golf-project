@@ -1,0 +1,464 @@
+[    
+    {
+        "id": 0,
+        "course": "Bonneville Golf Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 71.1,
+                        "slope": 126
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 69.5,
+                        "slope": 122
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 67.4,
+                        "slope": 112
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 65.9,
+                        "slope": 111
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "Blue",
+                        "rating": 74.7,
+                        "slope": 130
+                    },
+                    {
+                        "color": "White",
+                        "rating": 72.1,
+                        "slope": 124
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 70.2,
+                        "slope": 119
+                    }
+                ]
+            },
+        "location": "Salt Lake City, UT"
+    },
+    {
+        "id": 1,
+        "course": "Mountain Dell Golf Course - Lake Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 71.8,
+                        "slope": 135
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 68.9,
+                        "slope": 127
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 65.8,
+                        "slope": 114
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 70.3,
+                        "slope": 130
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 70.3,
+                        "slope": 121
+                    }
+                ]
+            },
+        "location": "Salt Lake City, UT"
+    },
+    {
+        "id": 2,
+        "course": "Mountain Dell Golf Course - Canyon Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 72.1,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 70.6,
+                        "slope": 127
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 68.6,
+                        "slope": 121
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 73.5,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 69.6,
+                        "slope": 123
+                    }
+                ]
+            },
+        "location": "Salt Lake City, UT"
+    },
+    {
+        "id": 3,
+        "course": "Bountiful Ridge Golf Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 72.1,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 70.6,
+                        "slope": 127
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 68.6,
+                        "slope": 121
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 73.5,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 69.6,
+                        "slope": 123
+                    }
+                ]
+            },
+        "location": "Bountiful, UT"
+    },
+    {
+        "id": 4,
+        "course": "Nibley Park Golf Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 72.1,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 70.6,
+                        "slope": 127
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 68.6,
+                        "slope": 121
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 73.5,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 69.6,
+                        "slope": 123
+                    }
+                ]
+            },
+        "location": "Salt Lake City, UT"
+    },
+    {
+        "id": 5,
+        "course": "Sky Mountain Golf Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 72.1,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 70.6,
+                        "slope": 127
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 68.6,
+                        "slope": 121
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 73.5,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 69.6,
+                        "slope": 123
+                    }
+                ]
+            },
+        "location": "Hurricane, UT"
+    },
+    {
+        "id": 6,
+        "course": "Coral Canyon Golf Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 72.1,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 70.6,
+                        "slope": 127
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 68.6,
+                        "slope": 121
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 73.5,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 69.6,
+                        "slope": 123
+                    }
+                ]
+            },
+        "location": "Washington, UT"
+    },
+    {
+        "id": 7,
+        "course": "Davis Park Golf Course",
+        "slopes": {
+                "men": [ 
+                    {   
+                        "color": "Black",
+                        "rating": 72.1,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 70.6,
+                        "slope": 127
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 68.6,
+                        "slope": 121
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 73.5,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 69.6,
+                        "slope": 123
+                    }
+                ]
+            },
+        "location": "Fruits Height, UT"
+    },
+    {
+        "id": 8,
+        "course": "Valley View Golf Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 72.1,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 70.6,
+                        "slope": 127
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 68.6,
+                        "slope": 121
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 73.5,
+                        "slope": 133
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 69.6,
+                        "slope": 123
+                    }
+                ]
+            },
+        "location": "Layton, UT"
+    },
+    {
+        "id": 9,
+        "course": "Old Mill Golf Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 70.0,
+                        "slope": 128
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 68.1,
+                        "slope": 122
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 65.5,
+                        "slope": 116
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 70.7,
+                        "slope": 132
+                    },
+                    {
+                        "color": "Red",
+                        "rating": 65.5,
+                        "slope": 120
+                    }
+                ]
+            },
+        "location": "Holladay, UT"
+    },
+    {
+        "id": 10,
+        "course": "South Mountain Golf Course",
+        "slopes": {
+                "men": [
+                    {
+                        "color": "Gold",
+                        "rating": 73.3,
+                        "slope": 136
+                    },
+                    {   
+                        "color": "Black",
+                        "rating": 71.7,
+                        "slope": 125
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 69.4,
+                        "slope": 126
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 69.4,
+                        "slope": 123
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "Blue",
+                        "rating": 74.8,
+                        "slope": 142
+                    },
+                    {
+                        "color": "White",
+                        "rating": 72.5,
+                        "slope": 135
+                    },
+                    {
+                        "color": "Red",
+                        "rating": 69.4,
+                        "slope": 121
+                    }
+                ]
+            },
+        "location": "Draper, UT"
+    },
+    {
+        "id": 11,
+        "course": "Thanksgiving Point Golf Course",
+        "slopes": {
+                "men": [
+                    {   
+                        "color": "Black",
+                        "rating": 76.8,
+                        "slope": 144
+                    },
+                    {
+                        "color": "Gold",
+                        "rating": 74.8,
+                        "slope": 140
+                    },
+                    {
+                        "color": "Blue",
+                        "rating": 72.8,
+                        "slope": 135
+                    }, 
+                    {
+                        "color": "White",
+                        "rating": 70.7,
+                        "slope": 134
+                    },
+                    {
+                        "color": "Green",
+                        "rating": 68.1,
+                        "slope": 129
+                    }
+                ],
+                "women": [
+                    {
+                        "color": "White",
+                        "rating": 76.5,
+                        "slope": 145
+                    },
+                    {
+                        "color": "Green",
+                        "rating": 73.6,
+                        "slope": 139
+                    }
+                ]
+            },
+        "location": "Lehi, UT"
+    }
+]

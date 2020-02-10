@@ -1,0 +1,78 @@
+
+.middle-content {
+    width:40%;
+}
+
+.nothing { 
+    width: 30%;
+}
+
+form {
+    position: relative;
+    margin: 20px auto;
+    width: 75%;
+  
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+  
+    padding: 30px 10px;
+    border-radius: 40px;
+    box-shadow: black 0 0 10px;
+  
+    background-color: rgb(230, 253, 236)
+}
+  
+.select-course {
+    width: 90%;
+    height: 35px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+  
+.select-slope {
+    width: 90%;
+    height: 35px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+  
+.stroke-title {
+    font-size: 2rem;
+}
+  
+.input-stroke {
+    width: 50px;
+    height: 35px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+  
+    border-radius: 10px;
+  
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+}
+  
+.submit-button {
+    font-size: 2rem;
+    padding: 10px 20px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: black 0 0 5px;
+  
+    cursor: pointer;
+}
+  
+.submit-button:hover {
+    background-color: green;
+    color: white;
+}
